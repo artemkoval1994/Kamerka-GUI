@@ -1,17 +1,17 @@
 {
   "keys": {
-    "shodan": "SHODAN_KEY",
+    "shodan": "PSKINdQe1GyxGgecYz2191H2JoS9qvgD",
     "binaryedge": "BINARYEDGE_KEY",
-    "google_maps": "GOOGLE_MAPS_KEY",
-    "whoisxmlapi": "WHOISXMLAPI_KEY",
-    "flickr_api_key": "FLICKR_KEY",
-    "flickr_secret_api_key": "FLICKR_KEY",
+    "google_maps": "SKHBzfE656MIhOvPOT4BkyRS7Ns=",
+    "whoisxmlapi": "at_d2c1EIHiDAy58rsnifrpI8gmJ9tpT",
+    "flickr_api_key": "fc94274cd0335f3c171fe22c8490b7d9",
+    "flickr_secret_api_key": "fc94274cd0335f3c171fe22c8490b7d9",
     "twitter_access_token": "TWITTER_KEY",
     "twitter_access_token_secret": "TWITTER_KEY",
     "twitter_consumer_key": "TWITTER_KEY",
     "twitter_consumer_secret": "TWITTER_KEY",
-    "pastebin_user": "PASTEBIN_USER",
-    "pastebin_password": "PASTEBIN_PASSWORD",
-    "pastebin_dev_key": "PASTEBIN_DEVELOPER_KEY"
+    "pastebin_user": "hagriRX",
+    "pastebin_password": "pq0SLVjMR7RETSAMEnS5cT-AsCc1-4mx",
+    "pastebin_dev_key": "pq0SLVjMR7RETSAMEnS5cT-AsCc1-4mx"
   }
 }
